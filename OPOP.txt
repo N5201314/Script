@@ -1,19 +1,59 @@
-shadowsocks=156.146.62.37:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, udp-relay=false, tag=��ʿ-2.37MB/s(Youtube:������)
+shadowsocks=156.146.62.37:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, udp-relay=false, tag=瑞士-2.37MB/s(Youtube:不良林)
 
-shadowsocks=84.17.53.212:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, udp-relay=false, tag=��ʿ-3.28MB/s(Youtube:������)
+shadowsocks=84.17.53.212:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, udp-relay=false, tag=瑞士-3.28MB/s(Youtube:不良林)
 
-shadowsocks=198.57.27.218:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=���ô�-833.2KB/s(Youtube:������)
+shadowsocks=198.57.27.218:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=加拿大-833.2KB/s(Youtube:不良林)
 
-shadowsocks=172.99.190.232:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=false, tag=Ӣ��-3.06MB/s(Youtube:������)
+shadowsocks=172.99.190.232:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=false, tag=英国-3.06MB/s(Youtube:不良林)
 
-shadowsocks=84.17.53.212:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, fast-open=false, udp-relay=false, tag=��ʿ-3.49MB/s(Youtube:������)
+shadowsocks=84.17.53.212:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, fast-open=false, udp-relay=false, tag=瑞士-3.49MB/s(Youtube:不良林)
 
-shadowsocks=156.146.62.37:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, fast-open=false, udp-relay=false, tag=��ʿ-2.35MB/s(Youtube:������)
+shadowsocks=156.146.62.37:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, fast-open=false, udp-relay=false, tag=瑞士-2.35MB/s(Youtube:不良林)
 
-shadowsocks=198.8.92.84:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, udp-relay=false, tag=���ô�-709.9KB/s(Youtube:������)
+shadowsocks=198.8.92.84:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, udp-relay=false, tag=加拿大-709.9KB/s(Youtube:不良林)
 
-shadowsocks=31.171.154.221:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, udp-relay=false, tag=����������-2.18MB/s(Youtube:������)
+shadowsocks=31.171.154.221:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, udp-relay=false, tag=阿尔巴尼亚-2.18MB/s(Youtube:不良林)
 
-shadowsocks=198.147.22.87:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, udp-relay=false, tag=����-548.1KB/s(Youtube:������)
+shadowsocks=198.147.22.87:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, udp-relay=false, tag=美国-548.1KB/s(Youtube:不良林)
 
-shadowsocks=172.99.190.153:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=Ӣ��-3.04MB/s(Youtube:������)
+shadowsocks=172.99.190.153:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=英国-3.04MB/s(Youtube:不良林)
+
+vmess = vip345.xyz:35230, 方法=chacha20-ietf-poly1305, 密码=bac18e70-9964-3f99-805a-d809c4bdc6cb, obfs=ws, obfs-host=vip345.xyz=obfny-xuri/ 🇰 HK-13.94.31.89
+vmess = v1-asw-sg-13.niaoyun.online:666，方法=chacha20-ietf-poly1305，密码=f548911a-d732-3e05-b552-899f3f9a3487，obfs=ws，obfs-sg-sws- 13.niaoyun.online, obfs-uri=/niaocloud, tag=🇸🇬 SG-3.0.98.123
+vmess = v1-asw-sg-15.niaoyun.online:666，方法=chacha20-ietf-poly1305，密码=f548911a-d732-3e05-b552-899f3f9a3487，obfs=ws，obfs-sg-sws- 15.niaoyun.online, obfs-uri=/niaocloud, tag=🇸🇬 SG-13.250.35.244
+vmess = v1-asw-sg-14.niaoyun.online:666，方法=chacha20-ietf-poly1305，密码=f548911a-d732-3e05-b552-899f3f9a3487，obfs=ws，obfs-sg-sws- 14.niaoyun.online, obfs-uri=/niaocloud, tag=🇸🇬 SG-18.141.12.239
+vmess = 18.236.146.125:8888, 方法=chacha20-ietf-poly1305, 密码=6ae2e994-2018-4f9f-a5bb-4639c14ba05f, obfs=ws, obfs-host=2,146.obfs-host=2,146.obfs-host=146.2 US-18.236.146.125
+vmess = 165.22.51.72:17550, 方法=chacha20-ietf-poly1305, 密码=33f69a04-86c4-4a6a-ccc4-78cabe0a9c72, obfs=ws, obfs-host=165.72s-host=165.7.2 SG-165.22.51.72
+vmess = 139.59.122.24:34715, 方法=chacha20-ietf-poly1305, 密码=28eeec13-db80-4cb9-9d30-060f4257d729, obfs=ws, obfs-host=🬇tag2.5s-host=🬈2.5.59-139. SG-139.59.122.24
+vmess = 159.223.75.14:41462, 方法=chacha20-ietf-poly1305, 密码=7556ad52-2253-4443-a483-623afcf4539c, obfs=ws, obfs-tag.1, obfs.tag.1, 🬇=🬇 obfs.tags.1,59 SG-159.223.75.14
+vmess = 159.223.67.223:58443, 方法=chacha20-ietf-poly1305, 密码=07c40cf6-db51-4179-cce7-5607cc0d301b, obfs=ws, obfs.223305, obfs.223-059,obfs-host=🬇=🬇 SG-159.223.67.223
+vmess = 122.192.189.8:19610, 方法=chacha20-ietf-poly1305, 密码=c0f4d26f-b870-3b0d-a77e-1786fcf52e50, obfs=ws, obfs.1.92.1, obfs-1.92.1, obfs-1.921tag=🨇 🇳 CN-122.192.189.8
+shadowsocks = 66.115.182.68:33992，方法=aes-256-gcm，密码=8n6pwAcrrv2pj6tFY2p3TbQ6，标签=🇺🇲 US-66.115.182.68
+shadowsocks = 156.146.62.37:50695，方法=aes-256-gcm，密码=gqtwGu9bVreJqL3FTHSVKGzy，标签=CH-156.146.62.37
+shadowsocks = 198.57.27.218:2376，方法=aes-256-gcm，密码=faBAoD54k87UJG7，标签=CA-198.57.27.218
+shadowsocks = 145.239.1.137:8091，方法=aes-256-gcm，密码=PCnnH6SQSnfoS27，标签=🇫🇷 FR-145.239.1.137
+shadowsocks = 46.29.218.6:8091，方法=aes-256-gcm，密码=PCnnH6SQSnfoS27，标签=NO-46.29.218.6
+shadowsocks = 201.fbplay.net:10026，方法=aes-256-gcm，密码=4c59b800，标签=🇰🇷 KR-14.63.17.8
+shadowsocks = 145.239.1.137:2375，方法=aes-256-gcm，密码=faBAoD54k87UJG7，标签=🇫🇷 FR-145.239.1.137 2
+shadowsocks = ss6.ssrsub.com:3443，方法=aes-128-gcm，密码=https://dlj.tf/ssrsub，标签=CA-45.62.249.165
+shadowsocks = 46.29.218.6:2376，方法=aes-256-gcm，密码=faBAoD54k87UJG7，标签=NO-46.29.218.6 2
+shadowsocks = 156.146.62.37:44102，方法=aes-256-gcm，密码=zHKYS9DeAjvv43EwgDfyEg4d，标签=CH-156.146.62.37 2
+shadowsocks = 156.146.62.37:49396，方法=aes-256-gcm，密码=BdRWC38L5JUDMTYNNxJGcUwB，标签=CH-156.146.62.37 3
+shadowsocks = 156.146.62.37:41306，方法=aes-256-gcm，密码=pzB5Y2twNtqFzWhEbBsPJMjj，标签=CH-156.146.62.37 4
+shadowsocks = 156.146.62.37:35371，方法=aes-256-gcm，密码=pjeDhAJGuML8xKUxcjRqq6a9，标签=CH-156.146.62.37 5
+shadowsocks = 118.107.244.110:7307，方法=aes-256-gcm，密码=FoOiGlkAA9yPEGP，标签=🇭🇰 HK-118.107.244.110
+shadowsocks = 172.105.59.32:8090，方法=aes-256-gcm，密码=PCnnH6SQSnfoS27，标签=IN-172.105.59.32
+shadowsocks = ss2.ssrsub.com:3443，方法=aes-128-gcm，密码=https://dlj.tf/ssrsub，标签=CA-45.62.233.57
+shadowsocks = 172.105.59.32:7307，方法=aes-256-gcm，密码=FoOiGlkAA9yPEGP，标签=IN-172.105.59.32 2
+shadowsocks = 118.107.244.110:5003，方法=aes-256-gcm，密码=g5MeD6Ft3CWlJId，标签=🇭🇰 HK-118.107.244.110 2
+shadowsocks = 156.146.62.37:45746，方法=aes-256-gcm，密码=wEsFcHCvbL4eJkL4DZQa7RgR，标签=CH-156.146.62.37 6
+木马= sh-hk-01-tr.cdn.savoy.click:12443, 密码=UiLPqefVfielqkDjEwBV, over-tls=true, tls-host=sh-hk-01-tr.cdn.savoy.click, tag=🇨🇳 CN-116.192.160.171
+特洛伊木马 = t1.ssrsub.com:833, 密码=8962d993-c7ff-4768-9dce-e2e8273f73dc, over-tls=true, tls-host=t1.ssrsub.com, tag=🇺🇲 US-209.149
+特洛伊木马 = t4.ssrsub.com:833, 密码=d8aacec8-e256-427b-a927-0c6013f6595b, over-tls=true, tls-host=t4.ssrsub.com, tag=🇷🇺 RU-193.67
+特洛伊木马 = 185.135.81.172:443, 密码=18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, over-tls=true, tls-host=, tag=🇷🇺 RU-185.137
+特洛伊木马 = 210.152.81.192:443, 密码=18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, over-tls=true, tls-host=, tag=🇯🇵 JP-210.152
+特洛伊木马 = 46.17.44.36:443, 密码=18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, over-tls=true, tls-host=, tag=🇷🇺 RU-46.16.44.
+特洛伊木马 = 67.198.228.126:443, 密码 = 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, over-tls=true, tls-host=, tag=🇺🇲 US-67.198.198.
+特洛伊木马 = t3.ssrsub.com:833, 密码=d8aacec8-e256-427b-a927-0c6013f6595b, over-tls=true, tls-host=t3.ssrsub.com, tag=🇷🇺 RU-429.82
+特洛伊木马 = t5.ssrsub.com:833, 密码=d8aacec8-e256-427b-a927-0c6013f6595b, over-tls=true, tls-host=t5.ssrsub.com, tag=🇷🇺 RU-1513.19
+特洛伊木马 = 109.74.194.189:1443, 密码=7x42LetRa0, over-tls=true, tls-host=, tag=GB-109.74.194.189
