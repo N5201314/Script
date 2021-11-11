@@ -1,0 +1,19 @@
+shadowsocks=156.146.62.37:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, udp-relay=false, tag=瑞士-2.37MB/s(Youtube:不良林)
+
+shadowsocks=84.17.53.212:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, udp-relay=false, tag=瑞士-3.28MB/s(Youtube:不良林)
+
+shadowsocks=198.57.27.218:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=加拿大-833.2KB/s(Youtube:不良林)
+
+shadowsocks=172.99.190.232:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=false, tag=英国-3.06MB/s(Youtube:不良林)
+
+shadowsocks=84.17.53.212:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, fast-open=false, udp-relay=false, tag=瑞士-3.49MB/s(Youtube:不良林)
+
+shadowsocks=156.146.62.37:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, fast-open=false, udp-relay=false, tag=瑞士-2.35MB/s(Youtube:不良林)
+
+shadowsocks=198.8.92.84:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, udp-relay=false, tag=加拿大-709.9KB/s(Youtube:不良林)
+
+shadowsocks=31.171.154.221:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, udp-relay=false, tag=阿尔巴尼亚-2.18MB/s(Youtube:不良林)
+
+shadowsocks=198.147.22.87:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, udp-relay=false, tag=美国-548.1KB/s(Youtube:不良林)
+
+shadowsocks=172.99.190.153:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=false, tag=英国-3.04MB/s(Youtube:不良林)
