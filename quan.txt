@@ -1,50 +1,8 @@
-vmess = cm-jm.okvpn.xyz:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇭🇰 ：中转|香港CMHK01|公众号：光头院长
-vmess = cm-jm.okvpn.cc:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇭🇰 中转|香港CMHK02|公众号：光头院长
-vmess = cm-jm.okvpn.cc:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇭🇰 中转|香港CMHK03|公众号：光头院长
-vmess = cm-jm.okvpn.cc:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇭🇰 中转|香港CMHK04|公众号：光头院长
-vmess = cm-jm.okvpn.cc:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇭🇰 中转|香港CMHK05|微信：ddly000
-vmess = cm-jm.okvpn.cc:20001, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇭🇰 中转|香港CMHK06|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30011, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇭🇰 中转|香港CMHK07|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30011, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇭🇰 中转|香港CMHK08|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30011, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇭🇰 中转|香港CMHK09|微信：ddly000
-vmess = bgp.okvpn.xyz:33504, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇭🇰 中转|香港CMHK10|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20002, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信01|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20002, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信02|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20002, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信03|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30012, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信04|微信：ddly000
-vmess = bgp.okvpn.xyz:33501, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信05|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20047, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信06|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20047, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信07|微信：ddly000
-vmess = cm-jm.okvpn.xyz:20047, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信08|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30021, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信09|微信：ddly000
-vmess = cu-cs.okvpn.xyz:30021, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾中华电信10|华中隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20004, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇺🇲 中转|美国NTT06|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20004, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇺🇲 中转|美国NTT07|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20004, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇺🇲 中转|美国NTT08|华南隧道[流媒体解锁]
-vmess = cu-cs.okvpn.xyz:30013, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇺🇲 中转|美国NTT09|华中隧道[流媒体解锁]
-vmess = bgp.okvpn.xyz:33502, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇺🇲 中转|美国NTT10|BGP隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20049, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇸🇬 中转|新加坡Singtel01|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20049, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇸🇬 中转|新加坡Singtel02|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20049, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇸🇬 中转|新加坡Singtel03|华中隧道[流媒体解锁]
-vmess = cu-cs.okvpn.xyz:30014, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇸🇬 中转|新加坡Singtel04|华中隧道[流媒体解锁]
-vmess = bgp.okvpn.xyz:33508, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇸🇬 中转|新加坡Singtel05|BGP隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20000, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾HiNet01|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20000, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾HiNet02|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20000, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾HiNet03|华南隧道[流媒体解锁]
-vmess = cu-cs.okvpn.xyz:30015, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾HiNet04|华中隧道[流媒体解锁]
-vmess = bgp.okvpn.xyz:33505, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇨🇳 中转|台湾HiNet05|BGP隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20005, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇬🇧 中转|英国GTHost01|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20005, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇬🇧 中转|英国GTHost02|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20005, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇬🇧 中转|英国GTHost03|华南隧道[流媒体解锁]
-vmess = cu-cs.okvpn.xyz:30016, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇬🇧 中转|英国GTHost04|华中隧道[流媒体解锁]
-vmess = bgp.okvpn.xyz:33506, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇬🇧 中转|英国GTHost05|BGP隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20015, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇯🇵 中转|日本GMO06|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20015, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇯🇵 中转|日本GMO07|华南隧道[流媒体解锁]
-vmess = cm-jm.okvpn.xyz:20015, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.xyz, obfs-uri=/, tag=🇯🇵 中转|日本GMO08|华南隧道[流媒体解锁]
-vmess = cu-cs.okvpn.xyz:30019, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇯🇵 中转|日本GMO09|华中隧道[流媒体解锁]
-vmess = bgp.okvpn.xyz:33507, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇯🇵 中转|日本GMO10|BGP隧道[流媒体解锁]
-vmess = cm-jm.okvpn.cc:20013, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇳🇱 中转|荷兰RackNerd01|华南隧道
-vmess = cm-jm.okvpn.cc:20013, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇳🇱 中转|荷兰RackNerd02|华南隧道
-vmess = cm-jm.okvpn.cc:20013, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cm-jm.okvpn.cc, obfs-uri=/, tag=🇳🇱 中转|荷兰RackNerd03|华南隧道
-vmess = cu-cs.okvpn.xyz:30020, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=cu-cs.okvpn.xyz, obfs-uri=/, tag=🇳🇱 中转|荷兰RackNerd04|华中隧道
-vmess = bgp.okvpn.xyz:33509, method=chacha20-ietf-poly1305, password=1a26ac9c-2e11-469b-ba86-9970c6cc7b3e, obfs=ws, obfs-host=bgp.okvpn.xyz, obfs-uri=/, tag=🇳🇱 中转|荷兰RackNerd05|BGP隧道
+
+shadowsocks=ntemp15.boom.party:19000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】新加坡 普通 1 - AWS
+
+
+shadowsocks=n21.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 1 - HKT
+
+
+
