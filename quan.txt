@@ -5,4 +5,22 @@ shadowsocks=ntemp15.boom.party:19000, method=aes-256-cfb, password=Uk92CS, ssr-p
 shadowsocks=n21.boom.party:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 1 - HKT
 
 
+shadowsocks=n23.boom.party:11000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 3 - HKT
 
+
+shadowsocks=n24.boom.party:12000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 5 - HKT
+
+
+shadowsocks=n28.boom.party:13000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 6 - HKT
+
+
+shadowsocks=n32.boom.party:16000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_A】香港 VIP 7 - HKT
+
+shadowsocks=us5.edge.boom.party:44001, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_C】美国 VIP 1 - CC
+
+shadowsocks=us6.edge.boom.party:45000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_C】美国 VIP 2 - CC
+
+
+shadowsocks=us7.edge.boom.party:46000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_C】美国 VIP 3 - CC
+
+shadowsocks=us8.edge.boom.party:47000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=68375:CYyYdS, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=【Tunnel_C】美国 VIP 4 - CC
