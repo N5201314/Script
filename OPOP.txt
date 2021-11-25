@@ -1,56 +1,142 @@
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37437, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre,fastlay-microsoft.com:true , tag=🇨🇳 DRL*台湾台北 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37280, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇨🇳 DRL*台湾台南 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37344, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇨🇳 DRL*台湾嘉义 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37310, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre,fastlay-microsoft.com:true , tag=🇨🇳 DRL*台湾基隆 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37276, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay=true , tag=🇨🇳 DRL*台湾宜兰 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37311, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre , tag=🇨🇳 DRL*台湾桃园 [0.8]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37240, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre,fastlay-microsoft.com:true , tag=🇨🇳 DRL*台湾高雄 [0.8]
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37393, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇩🇪 DRL*德国
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37418, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本东京
+
+
 shadowsocks = bj-aws.ikc3549ol1w65zbm.xyz:37424，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本品川01U 测试
-shadowsocks = bj-aws.ikc3549ol1w65zbm.xyz:37439，method=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本品川02U测试
+
+
+shadowsocks = bj-aws.ikc3549ol1w65zbm.xyz:37439，method=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本品川02U测
+试
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37230，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本新宿01
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37411, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本新宿02
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37244, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇯🇵 DRL*日本横滨 [1.5]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37374，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.open-pre , tag=🇲🇴 DRL*澳门 [1.5]
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37057, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre:true , tag=🇸🇬 DRL*狮城Linode*
-shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37395, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇸🇬 DRL*狮城SpNet*
+
+
+shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37395, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇸🇬 DRL*狮
+
+城SpNet*
+
+
 shadowsocks = kobayashi.cosmic-love.xyz:37386, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open=true, udp , tag=🇺🇲 DRL*美国御坂01
-shadowsocks = kobayashi.cosmic-love.xyz:37346，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇺🇲 DRL*美国御坂02
+
+
+shadowsocks = kobayashi.cosmic-love.xyz:37346，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=
+🇺🇲 DRL*美国御坂02
+
+
 shadowsocks = as4809-2.e-loli.xyz:37375, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open-relay, =true, tag=🇺🇲 DRL*美国西雅图00*
+
+
 shadowsocks = as4809-1.e-loli.xyz:37367, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open-relay, =true, tag=🇺🇲 DRL*美国西雅图01*
+
+
 shadowsocks = as4809-2.e-loli.xyz:37325, method=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open-relay, =true, tag=🇺🇲 DRL*美国西雅图02*
+
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37407, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇻🇳 DRL*越南河内
+
+
 shadowsocks = kobayashi.cosmic-love.xyz:37384，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇰🇷 DRL*韩国春川
+
+
 shadowsocks = jscm1.cosmic-love.xyz:37192, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open=true, udp , tag=🇰🇷 DRL*韩国蜂蜜5G
+
+
 shadowsocks = kobayashi.cosmic-love.xyz:37372，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com：，fast-open=true，udp , tag=🇰🇷 DRL*韩国首尔
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37155, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre,fastlay-microsoft.com:true , tag=🇭🇰 DRL*香港HGC00
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37318, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay=true , tag=🇭🇰 DRL*香港HGC01
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37348, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇭🇰 DRL*香港HGC02
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37405, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay=true , tag=🇭🇰 DRL*香港HGC03
+
 shadowsocks = gz-sectunnel-pop1.e-loli.xyz:37431, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open=true -relay=true, tag=🇭🇰 DRL*香港 HGC04
+
 shadowsocks = gz-sectunnel-pop1.e-loli.xyz:37413, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open=true -relay=true, tag=🇭🇰 DRL*香港 HGC05
+
 shadowsocks = jscm1.cosmic-love.xyz:37408，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com：，fast-open=true，udp , tag=🇭🇰 DRL*香港HKT01
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37415, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft-relay,true=true , tag=🇭🇰 DRL*香港HKT02
+
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37275, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre,fastlay-microsoft.com:true , tag=🇭🇰 DRL*香港HKT03
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37114, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇭🇰 DRL*香港WTT
+
 shadowsocks = cm-moe.ikc3549ol1w65zbm.xyz:37378, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.open-pre:true , tag=🇲🇾 DRL* 马来西亚
+
 shadowsocks = jscm2.cosmic-love.xyz:37409，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com：，fast-open=true，udp , tag=SP*以色列
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37149，method=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇷🇺 SP*俄罗斯 [0.5]
+
 shadowsocks = jscm2.cosmic-love.xyz:37347，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=SP*燕
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37388, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇨🇦 SP*加拿大
+
 shadowsocks = kobayashi.cosmic-love.xyz:37065，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇮🇩 SP*印尼
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37326，method=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b,fastlay.microsoft.com , 标签=🇮🇳 SP* 印度
+
 shadowsocks = kobayashi.cosmic-love.xyz:37432，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇹🇷 SP* [3]
+
 shadowsocks = kobayashi.cosmic-love.xyz:37252，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇧🇷 SP*巴西 [3]
+
 shadowsocks = kobayashi.cosmic-love.xyz:37172，method=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , 标签=SP* 挪威
+
 shadowsocks = kobayashi.cosmic-love.xyz:37315，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇸🇦 SP*透明
+
 shadowsocks = jscm2.cosmic-love.xyz:37420，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇫🇷 SP*法国
+
 shadowsocks = kobayashi.cosmic-love.xyz:37433，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇹🇭 SP*泰国
+
 shadowsocks = jscm2.cosmic-love.xyz:37412，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com：，fast-open=true，udp , tag=🇦🇺 SP*澳大利亚
+
 shadowsocks = kobayashi.cosmic-love.xyz:37324，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇨🇭 SP*瑞士休伦堡
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37322, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇬🇧 SP*英国伦敦
+
 shadowsocks = jscm2.cosmic-love.xyz:37354，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇬🇧 SP*英国伯劳
+
 shadowsocks = cu-moe.ikc3549ol1w65zbm.xyz:37419, 方法=chacha20-ietf, 密码=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b,fastlay.microsoft.com , tag=🇳🇱 SP*荷兰
+
 shadowsocks = jscm2.cosmic-love.xyz:37247，方法=chacha20-ietf，密码=114514H5BMbdDxSb，obfs=http，obfs-host=d5ecd9d117613b.download.microsoft.com:，fast-open=true，udp , tag=🇵🇭 SP*菲律宾
+
 shadowsocks = jscm2.cosmic-love.xyz:37228, method=chacha20-ietf, password=114514H5BMbdDxSb, obfs=http, obfs-host=d5ecd9d117613b.download.microsoft.com:, fast-open=true, udp , tag=🇦🇷 SP*阿根廷 [3]
